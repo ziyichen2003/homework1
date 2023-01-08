@@ -5,7 +5,7 @@ This homework will help you get familiar with git and github, tools you'll be us
 You can follow the steps below, but please note that a number of them have been deleted, mostly things like when to use "git add" and "git commit". Simply following these steps verbatim will result in your project becoming an intractable mess.
 
 1. Read this: https://towardsdatascience.com/get-git-a-primer-on-git-aa2cd1d9436f
-2. Create a <a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/command-line-GitHub-fork-CLI-terminal-shell#:~:text=A%20fork%20in%20Git%20is,that%20of%20the%20original%20project.">fork of this repository (there should be a fork button on this page in the upper right).
+2. Create a <a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/command-line-GitHub-fork-CLI-terminal-shell#:~:text=A%20fork%20in%20Git%20is,that%20of%20the%20original%20project.">fork</a> of this repository (there should be a fork button on this page in the upper right).
 3. Create a file called "answers.txt"
 5. In answers.txt, paste the following and answer the question:
 
