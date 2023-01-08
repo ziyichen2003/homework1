@@ -1,21 +1,24 @@
 # Homework 1
 
-This homework will help you get familiar with git and github, tools you'll be using later on in this class and your career.
+This homework will help you get familiar with git and github, tools you'll be using later on in this class and your career. At the end of this exercise, you should have created two branches, created a merge conflict, resolved it, and then pushed the results to your github repository. 
+
+You can follow the steps below, but please note that a number of them have been deleted, mostly things like when to use "git add" and "git commit". Simply following these steps verbatim will result in your project becoming an intractable mess.
 
 1. Read this: https://towardsdatascience.com/get-git-a-primer-on-git-aa2cd1d9436f
-2. Create a fork of this repository there should be a fork button on this page in the upper right)
-3. Create a branch called "main"
-4. Create a branch called "progress"
-5. Switch to the branch main and answer the following question:
+2. Create a <a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/command-line-GitHub-fork-CLI-terminal-shell#:~:text=A%20fork%20in%20Git%20is,that%20of%20the%20original%20project.">fork of this repository (there should be a fork button on this page in the upper right).
+3. Create a file called "answers.txt"
+5. In answers.txt, paste the following and answer the question:
 
 What is the difference between a merge and a rebase?
 
-<Your answer goes here>
+<Answer the question here>
 
-6. Switch to the branch "progress" and answer the following questions:
+7. Create a branch called "progress" and switch to it.
+8. Paste the following into "answers.txt" and answer the question.
 
 What is a remote repository? 
 
+<Answer the question here>
 
-7. Switch back to "main" and merge the main branch with the progress branch such that both your answers are on this readme.
-8. Submit a link to your github project.
+9. Switch back to "main" and merge the main branch with the progress branch such that both your answers are in order in answers.txt
+12. Submit a link to your github project.
