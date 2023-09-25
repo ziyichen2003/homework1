@@ -1,0 +1,2 @@
+What is the difference between a merge and a rebase?
+A merge is committing all changes and is non-destructive as the history and branches are not changed. A rebase re-writes the history while committing all changes, and relocates our branch to the tip of the main branch.
