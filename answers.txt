@@ -1,0 +1,2 @@
+What is a remote repository?
+A remote repository keeps track of versions of your projects and is hosted on servers like the internet or a local network. It is used to share your code with other people.
